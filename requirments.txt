@@ -1,0 +1,5 @@
+python==3.12
+pydoctor==23.9.1
+pygame-menu==4.4.3
+pygame==2.5.2
+pytest==7.4.3
